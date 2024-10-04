@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: Inter;
+}
+
+.div{
+    background-color: #F1A900;
+    width: 192px;
+    height: 82px;
+    text-align: center;
+    align-content: center;
+}
+
+.nav ul{
+    display: flex;
+    width: 1440px;
+    height: 82px;
+    background-color: black;
+    align-items: center;
+    gap: 342px;
+}
+
+.header{
+    background-image: url(./image\ 5.png);
+    width: 1440px;
+    height: 797px;
+    margin: 0 auto;
+}
+
+.w{
+    font-size: 40px;
+    font-weight: 700;
+    width: 235px;
+    height: 73px;
+    background-color: #F1A900;
+    text-align: center;
+    align-content: center;
+}
+
+.t{
+    width: 922px;
+    height: 140px;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #F1A90054;
+    margin: 100px auto;
+    align-content: center;
+}
+
+.a{
+    font-size: 40px;
+    font-weight: 700;
+    background-color: black;
+    color: #FFFFFF;
+    text-align: center;
+    align-content: center;
+    width: 235px;
+    height: 73px;
+}
+
+.ul1{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.English{
+    color: #FFFFFF;
+}
+
+.o{
+    width: 56px;
+    height: 46px;
+}
+.y{
+    display: flex;
+    align-content: center;
+
+}
